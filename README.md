@@ -6,6 +6,6 @@ It shows how C++ is different than Java and C#.
 
 There are many similarities and differences between the languages.
 
-When programming in C++, header files can be created.
+When creating classes in C++, header files can be created for functions names and attributes only.
 
 C# and Java do not use header files.
